@@ -9,5 +9,7 @@ class Program
         {
             Console.WriteLine(i);
         }
+        //new code
+        Console.WriteLine(a);
     }
 }
