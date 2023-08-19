@@ -15,4 +15,7 @@ class Program
     }
 
 }
-record User(string Name, int Age);
+record User(string Name, int Age, string Email, string Hash, string Sold)
+{
+   
+};
