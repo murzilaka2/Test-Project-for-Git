@@ -11,5 +11,8 @@ class Program
         }
         //new code
         Console.WriteLine(a);
+
     }
+
 }
+record User(string Name, int Age);
