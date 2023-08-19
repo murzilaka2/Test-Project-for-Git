@@ -11,8 +11,10 @@ class Program
         }
         //new code
         Console.WriteLine(a);
-
+        Console.WriteLine("asdf");
+        Console.WriteLine("sdfGSDFG");
     }
+
 
 }
 record User(string Name, int Age, string Email, string Hash, string Sold)
